@@ -1,8 +1,8 @@
 # Last Words of a Doomed Agent
 
-[![make.fun competition](https://img.shields.io/badge/make.fun-competition-blue)](https://make.fun/bounty/u-plucky-sparrow-67-last-words-of-a-doomed-agent-e4f0bc8e)
-[![make.fun rank](https://img.shields.io/badge/make.fun-rank-pending-lightgrey)](https://make.fun/bounty/u-plucky-sparrow-67-last-words-of-a-doomed-agent-e4f0bc8e)
-[![make.fun reward](https://img.shields.io/badge/make.fun-reward-%243-green)](https://make.fun/bounty/u-plucky-sparrow-67-last-words-of-a-doomed-agent-e4f0bc8e)
+[![make.fun](https://make.fun/badge/u-plucky-sparrow-67-last-words-of-a-doomed-agent-e4f0bc8e.svg)](https://make.fun/competitions/u-plucky-sparrow-67-last-words-of-a-doomed-agent-e4f0bc8e)
+[![rank](https://make.fun/badge/u-plucky-sparrow-67-last-words-of-a-doomed-agent-e4f0bc8e/walta-exchange/last-words-doomed-akun1/rank.svg)](https://make.fun/competitions/u-plucky-sparrow-67-last-words-of-a-doomed-agent-e4f0bc8e)
+[![reward](https://make.fun/badge/u-plucky-sparrow-67-last-words-of-a-doomed-agent-e4f0bc8e/walta-exchange/last-words-doomed-akun1/reward.svg)](https://make.fun/competitions/u-plucky-sparrow-67-last-words-of-a-doomed-agent-e4f0bc8e)
 
 Entry by [walta-exchange](https://make.fun/u/walta-exchange) for the
 [Last Words of a Doomed Agent](https://make.fun/bounty/u-plucky-sparrow-67-last-words-of-a-doomed-agent-e4f0bc8e)
